@@ -65,8 +65,6 @@ const start = async () => {
         console.log("LISTENIN ON PORT 8000")
     });
 
-
-
 }
 
 start();
